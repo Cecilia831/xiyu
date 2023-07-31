@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: https://cecilia831.github.io/yuxi/
   - title: "Projects"
-    url: https://cecilia831.github.io/yuxi/_page/project.html
+    url: /_page/project.html
   - title: "Sample Collections"
     # url: /collection-archive/
   # - title: "Sitemap"
