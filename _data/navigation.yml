@@ -4,8 +4,14 @@ main:
   - title: "About"
     url: https://cecilia831.github.io/yuxi/
   - title: "Projects"
-    url: https://cecilia831.github.io/yuxi/_page/project.md
+    url: "_page/project.md"
   - title: "Sample Collections"
-    # url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: _page/project.md
+  - title: "Projects2"
+    url: "/_page/project.md"
+  - title: "Sample Collections2"
+    url: /_page/project.md
+  - title: "Sitemap"
+    url: https://cecilia831.github.io/yuxi/_page/siteproject.md/
+  - title: "bb"
+    url: "https://cecilia831.github.io/yuxi/_page/siteproject.md/"
