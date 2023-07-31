@@ -129,10 +129,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/cecilia_yu_831/?hl=en"
     - label: "Google Scholar"
-      icon: "fa fa-graduation-cap"
+      icon: "fa fa-fw fa-graduation-cap fa-sm"
       url: "https://scholar.google.com/citations?hl=en&user=i6zSixMAAAAJ&view_op=list_works&gmla=AMpAcmSuJr6OCuUkehDwGEkFJl36Ic0d7DIFofHdIBKPknS5psiuADOEWDOPMiMnX6Yd9TMxinXn"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xi-yu-744209126/"
       
 # Site Footer
