@@ -4,6 +4,5 @@ main:
   - title: "About"
     url: https://cecilia831.github.io/yuxi/
   - title: "Projects"
-    url: /project.md/
-  - title: "Sample Collections"
-    url: /project.html/
+    url: /project/
+
