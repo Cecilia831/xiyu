@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Xi Yu"
 title_separator          : "|"
-subtitle                 : " Portland " # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xi"
 description              : "Personal Page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Xi Yu"
   avatar           : "assets/Yu Xi.jpg"
-  bio              : "I am learning computer science "
+  bio              : "I am learning computer science. "
   location         : "Portland,OR"
   email            :
   links:
