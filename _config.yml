@@ -127,7 +127,7 @@ author:
       url: "https://github.com/Cecilia831"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/cecilia_yu_831/?hl=en"
+      # url: "https://www.instagram.com/cecilia_yu_831/?hl=en"
     - label: "Google Scholar"
       icon: "fa fa-fw fa-graduation-cap fa-sm"
       url: "https://scholar.google.com/citations?hl=en&user=i6zSixMAAAAJ&view_op=list_works&gmla=AMpAcmSuJr6OCuUkehDwGEkFJl36Ic0d7DIFofHdIBKPknS5psiuADOEWDOPMiMnX6Yd9TMxinXn"
